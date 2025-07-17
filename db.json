@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "admin"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Initial Task",
+      "description": "This is the first task",
+      "status": "todo",
+      "priority": "medium",
+      "dueDate": "2023-12-31"
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Printer Paper",
+      "quantity": 100,
+      "category": "Office Supplies",
+      "price": 5.99,
+      "supplier": "Staples",
+      "threshold": 20
+    }
+  ]
+}
